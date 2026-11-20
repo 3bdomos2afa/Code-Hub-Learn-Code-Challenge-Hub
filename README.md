@@ -12,6 +12,10 @@ An interactive hub for learning to code: practice challenges, a built-in code pl
 - Authentication and user profiles (Supabase)
 - Admin dashboard for managing challenges and books
 
+## Preview
+
+![Local production build preview](docs/preview.svg)
+
 ## Tech stack
 
 - React + TypeScript + Vite
